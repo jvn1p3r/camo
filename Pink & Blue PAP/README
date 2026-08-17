@@ -1,0 +1,7 @@
+A pink and blue edit of gold camo that shifts color as you move though shadows and lighting. Applies to all pack-a-punched guns.
+
+To install, hold Win+R and paste %localappdata%\Plutonium\storage\t5\ into run and hit enter. Create a folder here entitled images if you do not already have one. Paste the files directly into the images folder.
+
+These textures will work in Linux as well, though the location of your Plutonium\storage\t5\ directory will depend on your configuration.
+
+Download Link: https://github.com/jvn1p3r/camo/tree/40d6bac33155ac83f052e1b338a08411032bbf0a/BO1/Pink %26 Blue PAP
